@@ -128,3 +128,13 @@ increase training data
 incerase window size which leads to increase of vector dimesnions
 
 
+Adv of w2v over BOW
+1) dense matrix
+2) semantic meaning is captured 
+3) fixed set of dimensions (google pretrained 300 dimensions for 3 million words and phrases)
+4) out of vocabulary (oov) is also solved
+
+
+-------------------------------------------------------------------------------------------
+
+average word2vec
