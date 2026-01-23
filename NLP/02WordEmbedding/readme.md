@@ -105,10 +105,10 @@ print(model.wv['AI'])        # Vector for 'AI'
 print(model.wv.most_similar('AI'))
 
 
-
+comparison :
 
 | Method    | Considers Order | Captures Meaning | Output Type       |
-|-----------|----------------|-----------------|------------------|
+|-----------|-----------------|------------------|-------------------|
 | BoW       | ❌ No           | ❌ No           | Sparse vector     |
 | N-gram    | ✅ Partial      | ❌ No           | Sparse vector     |
 | TF-IDF    | ❌ No           | ❌ No           | Weighted vector   |
