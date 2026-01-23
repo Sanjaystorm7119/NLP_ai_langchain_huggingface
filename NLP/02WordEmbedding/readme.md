@@ -115,3 +115,16 @@ comparison :
 | Word2Vec  | ✅ Yes          | ✅ Yes          | Dense vector      |
 | NER       | ✅ Yes          | ✅ Yes          | Entity labels     |
 ```
+
+when to apply cbow / skip gram
+
+small dataset -> cbow
+large dataset -> skip gram
+
+
+
+how to improve?
+increase training data
+incerase window size which leads to increase of vector dimesnions
+
+
